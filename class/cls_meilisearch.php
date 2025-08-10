@@ -22,6 +22,13 @@ class cls_meilisearch
         $client = new Client('http://127.0.0.1:7700', 'At43V9WVh0yRI_piRNdNs4aTJZHnuWLm74IPV-PtahE');
         $this->index = $client->index('btba');
     }
+
+    /**
+     * @return void
+     * 2025-08-10 16:07:04
+     * 添加数据
+     */
+    public function add(){}
     private function example()
     {
         /*
