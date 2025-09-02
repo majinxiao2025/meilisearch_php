@@ -25,7 +25,7 @@
     *   **Python**: 熟练使用Django、Flask、FastAPI，**尤其擅长开发大模型代理API、异步任务处理**。
     *   **Golang**: 熟悉，有使用Gin、Beego等进行高性能API服务开发的经验
 *   **移动端开发**: 了解Android及iOS应用开发基础，能进行跨端协作和功能调试
-*   **数据库**: Postgresql、Redis、MongoDB、Meilisearch **ChromaDB（矢量数据库）**
+*   **数据库**: Postgresql、Redis、MongoDB、Meilisearch、**ChromaDB（矢量数据库）**
 *   **运维与架构**:
     *   精通Linux操作系统，能手动搭建AI模型部署环境及传统Web环境。
     *   熟悉Docker容器化技术，**能通过容器部署和管理大模型应用**。
